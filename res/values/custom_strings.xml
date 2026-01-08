@@ -372,4 +372,8 @@
 
     <!-- Wifi Display settings. The title of a menu item to disable mirroring confimration [CHAR LIMIT=40] -->
     <string name="mirroring_confirmation_disable_menu_item">Disable mirroring confirmation</string>
+
+    <!-- Multi Audio Focus -->
+    <string name="multi_audio_focus_title">Multi audio focus</string>
+    <string name="multi_audio_focus_summary">Allow multiple apps to play audio simultaneously</string>
 </resources>

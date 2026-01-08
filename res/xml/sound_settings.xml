@@ -154,6 +154,15 @@
         android:key="audio_category"
         android:order="-120"
         android:title="@string/sound_audio_category_title">
+
+        <!-- Multi Audio Focus -->
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="multi_audio_focus_enabled"
+            android:title="@string/multi_audio_focus_title"
+            android:summary="@string/multi_audio_focus_summary"
+            android:defaultValue="false"
+            android:order="-108"/>
+
         <!-- Live Caption -110 and Now Playing -105-->
 
         <!-- Spatial audio -->
