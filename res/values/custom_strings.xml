@@ -374,8 +374,8 @@
     <string name="mirroring_confirmation_disable_menu_item">Disable mirroring confirmation</string>
 
     <!-- Multi Audio Focus -->
-    <string name="multi_audio_focus_title">Multi audio focus</string>
-    <string name="multi_audio_focus_summary">Allow multiple apps to play audio simultaneously</string>
+    <string name="multi_audio_focus_title">Simultaneous audio</string>
+    <string name="multi_audio_focus_summary">Multiple apps can play sound at once instead of pausing each other</string>
 
     <!-- Override Mock Location restriction -->
     <string name="override_mock_location_title">Hide mock location from apps</string>
