@@ -371,7 +371,7 @@
     <string name="category_name_gestures">Gestures</string>
 
     <!-- Wifi Display settings. The title of a menu item to disable mirroring confimration [CHAR LIMIT=40] -->
-    <string name="mirroring_confirmation_disable_menu_item">Disable mirroring confirmation</string>
+    <string name="mirroring_confirmation_disable_menu_item">Skip mirroring confirmation</string>
 
     <!-- Multi Audio Focus -->
     <string name="multi_audio_focus_title">Simultaneous audio</string>
